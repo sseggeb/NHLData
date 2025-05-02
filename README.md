@@ -5,4 +5,4 @@ There is a plethora of data collected during games, the idea here is to show a s
 
 
 # About Me
-https://www.datacamp.com/portfolio/spencer-2f6b6358-3dcc-4ecd-a877-63e24057c75b
+[DataCamp Profile](https://www.datacamp.com/portfolio/spencer-2f6b6358-3dcc-4ecd-a877-63e24057c75b)
