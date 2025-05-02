@@ -1,5 +1,5 @@
-https://moneypuck.com/data.htm
+[Money Puck Website](https://moneypuck.com/data.htm)
 
-https://www.cmu.edu/dietrich/statistics-datascience/cmsac/
+[Carnegie Mellon Sports Analytics Center](https://www.cmu.edu/dietrich/statistics-datascience/cmsac/)
 
-https://cmsac-research-lab.github.io/
+[Carnegie Mellon Sports Analytics Center Research Lab](https://www.cmu.edu/dietrich/statistics-datascience/cmsac/research-lab/index.html)
