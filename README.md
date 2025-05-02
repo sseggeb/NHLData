@@ -7,5 +7,5 @@ This is a passion project for me and I hope to show my strong quantitative found
 ## About Me
 [DataCamp Profile](https://www.datacamp.com/portfolio/spencer-2f6b6358-3dcc-4ecd-a877-63e24057c75b)
 
-## Credit
-All credit for motivating this project goes to Peter Tanner from [MoneyPuck.com](https://moneypuck.com/data.htm)  
+### Credit
+This project is motivated by the data at [MoneyPuck.com](https://moneypuck.com/data.htm)  Thank you Peter Tanner!
