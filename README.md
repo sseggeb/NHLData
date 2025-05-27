@@ -4,6 +4,7 @@ This is a passion project for me and I hope to show my strong quantitative found
 
 ## Future Project Plan
 interactive dashboard with filter for opponent.  
+test different classification models for goals.
 
 ## Table of Contents
 
