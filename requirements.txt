@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 kaggle==1.7.4.5
 seaborn==0.13.2
 matplotlib==3.10.3
 pandas==2.2.3
 numpy==2.2.6
+=======
+<<<<<<< HEAD
+pandas==2.2.3
+numpy==2.2.6
+matplotlib==3.10.3
+seaborn==0.13.2
+sklearn==1.6.1
+=======
+kaggle
+os
+
+>>>>>>> bb34710a34267b77967ab2fa26e5011459d71d23
+>>>>>>> 19e6a463209b87de399e0bfb2669c341219a70c8
